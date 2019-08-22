@@ -1,6 +1,6 @@
 ## Data Analysis
 
-The python program ``generate_data.py`` is used to generate dummy i.e., ``car_data.csv`` for visualization.
+The python program ``generate_data.py`` is used to generate dummy data i.e., ``car_data.csv`` for visualization.
 
 The python program ``data_visualization.py`` is used to visualized the given data i.e., ``car_data.csv``
 
